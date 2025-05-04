@@ -5,7 +5,7 @@
 #    Originally written by Simon Monk
 #
 
-from . import MFRC522
+import MFRC522
 import lgpio as GPIO
 import time
 
